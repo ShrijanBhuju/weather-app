@@ -1,8 +1,10 @@
-# React + Vite
+# Weather App using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this app gives a general information about weather of a city.
 
-Currently, two official plugins are available:
+## How to use the app:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. The app is initalized to show the weather of Kathmandu, Nepal.
+2. If you want to see the weather of a prefered city then, write the city name in the search bar and tap the search icon.
+3. if the user enters null value, there will be an error message.
+4. if the user input wrong city name, then the system will alert the user.
